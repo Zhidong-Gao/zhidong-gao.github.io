@@ -1,0 +1,34 @@
+- caption: San Antonio
+  href: https://maps.app.goo.gl/83P1iw2XZCsC5J4E9
+  icon: entypo/location-pin.svg
+
+- caption: Email
+  href: mailto:zhidong.gao@utsa.edu?subject=Hello%20from%20the%20website
+  icon: entypo/envelope-solid.svg
+
+- caption: ORCID
+  href: https://orcid.org/0009-0009-9782-0083
+  icon: icons/ORCID_iD.svg
+  
+- caption: GitHub
+  href: https://github.com/Zhidong-Gao
+  icon: entypo/github.svg
+
+- caption: Hugging Face
+  href: https://huggingface.co/zhidong-gao
+  icon: icons/hf-logo.svg
+
+# - caption: "zhidong.gao@utsa.edu"
+#   icon: entypo/envelope-solid.svg
+
+# - caption: Facebook
+#   href: https://www.facebook.com
+#   icon: entypo/facebook.svg
+
+# - caption: Twitter
+#   href: https://www.twitter.com
+#   icon: entypo/twitter.svg
+
+- caption: Google Scholar
+  href: https://scholar.google.com/citations?user=Fc8axmEAAAAJ&hl=en
+  icon: icons/icons8-google-scholar-480.svg
