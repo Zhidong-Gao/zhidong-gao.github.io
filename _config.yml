@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 title:            Homepages          # Site title
 sub_title:        AI revels in complexity, shaping chaos to insight.
 name:             Zhidong Gao           # Your name
-avatar:           /theme/img/my.png   # Path to an avatar image
+avatar:           /theme/img/gao.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
