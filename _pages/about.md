@@ -20,6 +20,10 @@ See [Google Scholar](https://scholar.google.com/citations?user=Fc8axmEAAAAJ&hl=e
   **Zhidong Gao**, Yu Zhang, Yanmin Gong, Yuanxiong Guo<br>
   arXiv, 2024 [<img src="https://img.icons8.com/color/48/000000/pdf-2--v1.png" width="20"/> Paper](https://arxiv.org/abs/2409.19509)
 
+- Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning<br>
+  **Zhidong Gao**, Zhenxiao Zhang, Yu Zhang, Tongnian Wang, Yanmin Gong, Yuanxiong Guo<br>
+  arXiv, 2024 [<img src="https://img.icons8.com/color/48/000000/pdf-2--v1.png" width="20"/> Paper](https://arxiv.org/abs/2410.10833)
+  
 - Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression<br>
   Zhenxiao Zhang, **Zhidong Gao**, Yuanxiong Guo, Yanmin Gong<br>
   arXiv, 2024 [<img src="https://img.icons8.com/color/48/000000/pdf-2--v1.png" width="20"/> Paper](https://arxiv.org/pdf/2409.04022)
