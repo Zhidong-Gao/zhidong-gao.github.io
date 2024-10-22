@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: about.html
-narrow: true
+narrow: false
 title: Publications
 # images:
 #   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
