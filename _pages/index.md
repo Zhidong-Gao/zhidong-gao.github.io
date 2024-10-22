@@ -1,7 +1,7 @@
 ---
 layout: defaults/page
 permalink: index.html
-narrow: false
+narrow: true
 title: About Me
 ---
 
